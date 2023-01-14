@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>MyBBS</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{ url('css/style.css') }}">
 </head>
 
 <body>
